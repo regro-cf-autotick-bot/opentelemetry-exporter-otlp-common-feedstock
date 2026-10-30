@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.66b1"
+  version: "0.66b2"
 
 package:
   name: opentelemetry-exporter-otlp-common
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/o/opentelemetry-exporter-otlp-common/opentelemetry_exporter_otlp_common-${{ version }}.tar.gz
-  sha256: 6b1403487a2185ac1feb45fd5546fdf8630ce71c36bcefaadf51e2130e9e23f9
+  sha256: 06f5a9b88638e310efa1f1d206cdf6b75393e112aba4e174a963416192bd1028
 
 build:
   number: 0
